@@ -1,4 +1,4 @@
-name: "K4Connect S3 Upload"
+name: "S3 Upload File Upload"
 description: "Upload an object to an S3 bucket."
 author: "zdurham"
 runs:
