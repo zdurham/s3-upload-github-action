@@ -1,4 +1,4 @@
-name: "S3 Upload File Upload"
+name: "S3 File Upload"
 description: "Upload an object to an S3 bucket."
 author: "zdurham"
 runs:
